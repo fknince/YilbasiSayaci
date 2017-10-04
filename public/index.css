@@ -1,0 +1,12 @@
+body{
+background-image:url("./images/sky2.jpg");
+background-position: center,center;
+color: #2eab3d;
+font-family: 'Mountains of Christmas', cursive;
+
+}
+canvas
+{
+  width:1366px;
+  height: 438px;
+}
